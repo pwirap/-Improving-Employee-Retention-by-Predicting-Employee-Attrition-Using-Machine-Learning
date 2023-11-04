@@ -53,6 +53,7 @@ By using Mutual Information, we get only certain features that have an important
 ## Model Machine Learning
 The following is an evaluation matrix table on several machine learning models that have been tested
 
+![Picture1](https://github.com/pwirap/-Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning/assets/99533745/63a79813-509d-4a5c-be24-896576f0f986)
 
 We are focusing on Recall, and XGBoost emerges as the best model due to the evaluation matrix in both the training and testing phases not differing significantly and doesn't make Overfitting.
 
@@ -62,10 +63,7 @@ We are focusing on Recall, and XGBoost emerges as the best model due to the eval
 3. Model Machine learning selected : XGBoost
 4. Feature Important : AlasanResign
 
-"Grafik Resign"
-
-
-
+![Picture2](https://github.com/pwirap/-Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning/assets/99533745/e0961943-e306-477c-ac17-61329533416f)
 
 From the adjacent chart, it can be concluded that the most common reasons for resignation are associated with working hours, career change, uncertainty in career advancement, and the inability to work remotely.
 
