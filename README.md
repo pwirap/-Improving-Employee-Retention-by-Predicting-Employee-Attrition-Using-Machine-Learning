@@ -8,31 +8,31 @@ Human resources (HR) are the primary assets that need to be effectively managed 
 The problem at hand involves the development of a machine learning system to predict employees who are at risk of leaving their current position. This predictive model will be based on specific characteristics or features associated with employees' behavior, performance, and other relevant factors within the organization. The goal is to identify these "at-risk" employees early in order to implement targeted programs or interventions to retain them within the organization.
 
 # Data
-Username : unique username employee
-EnterpriseID : unique id employee
-StatusPernikahan : Marital status
-JenisKelamin : Gender
-StatusKepegawaian : Employment status
-Pekerjaan : Work
-JenjangKarir : Career path
-PerformancePegawai : Employee Performance
-AsalDaerah : Origin
-HiringPlatform : HiringPlatform
-SkorSurveyEngagement : ScoreSurveyEngagement
-SkorKepuasanPegawai : Employee Satisfaction Score
-JumlahKeikutsertaanProjek : Number of Project Participations
-JumlahKeterlambatanSebulanTerakhir : Number of Delays in the Last Month
-JumlahKetidakhadiran : Number of Absences
-NomorHP : Mobile phone number
-Email : E-mail
-TingkatPendidikan : Level of education
-PernahBekerja : Worked
-IkutProgramLOP : Join the LOP Program
-AlasanResign : Reason for Resigning
-TanggalLahir : Date of birth
-TanggalHiring : DateHiring
-TanggalPenilaianKaryawan : Employee Evaluation Date
-TanggalResign : Resign Date
+- Username : unique username employee
+- EnterpriseID : unique id employee
+- StatusPernikahan : Marital status
+- JenisKelamin : Gender
+- StatusKepegawaian : Employment status
+- Pekerjaan : Work
+- JenjangKarir : Career path
+- PerformancePegawai : Employee Performance
+- AsalDaerah : Origin
+- HiringPlatform : HiringPlatform
+- SkorSurveyEngagement : ScoreSurveyEngagement
+- SkorKepuasanPegawai : Employee Satisfaction Score
+- JumlahKeikutsertaanProjek : Number of Project Participations
+- JumlahKeterlambatanSebulanTerakhir : Number of Delays in the Last Month
+- JumlahKetidakhadiran : Number of Absences
+- NomorHP : Mobile phone number
+- Email : E-mail
+- TingkatPendidikan : Level of education
+- PernahBekerja : Worked
+- IkutProgramLOP : Join the LOP Program
+- AlasanResign : Reason for Resigning
+- TanggalLahir : Date of birth
+- TanggalHiring : DateHiring
+- TanggalPenilaianKaryawan : Employee Evaluation Date
+- TanggalResign : Resign Date
 
 # Data Preprocessing
 1. The dataset has 287 records and 25 features
