@@ -28,6 +28,7 @@ The problem at hand involves the development of a machine learning system to pre
 # Data Analysis
 ## Annual Report on Employee Number Changes
 
+![download (7)](https://github.com/pwirap/-Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning/assets/99533745/d4efddee-104c-4ab8-8491-678ab5b89f58)
 
 In 2011, the year witnessed the highest number of new employees joining the company compared to those who left, totaling 76. However, in 2015, a significant surge in employee resignations occurred, necessitating further analysis to understand the underlying reasons. Subsequently, from 2015 onwards, there was a continuous decline in the number of employees, reaching its peak in 2018 when a substantial number of employees departed, far outnumbering the new recruits. During this period, the company faced challenging conditions, highlighting the urgent need for self-improvement to ensure the sustainability of long-term strategic goals without encountering further complications.
 
