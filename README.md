@@ -35,11 +35,15 @@ In 2011, the year witnessed the highest number of new employees joining the comp
 
 ## Resign Reason Analysis for Employee Attrition Management Strategy
 
-
+![download (8)](https://github.com/pwirap/-Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning/assets/99533745/84dec661-ae1d-42b2-8c67-55d1f3550c37)
 
 The data illustrates the overall percentage of employees in each existing department compared to those who have resigned up to the year 2018. Notably, employees in roles such as DevOps Engineer, Digital Product Manager, Machine Learning Engineer, Product Design, Scrum Master, and Software Architect have not submitted their resignations. However, the Data Analysts department stands out with the highest resignation rate, where as much as 50% of its employees have resigned. It is crucial to investigate the underlying reasons for this significant turnover among Data Analysts.
 
 ## Resign Reason Analysis for Employee Attrition Management Strategy
+
+![download (9)](https://github.com/pwirap/-Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning/assets/99533745/2ae4d06b-2635-4b3c-9671-6e1e648b79ce)
+
+![download (10)](https://github.com/pwirap/-Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning/assets/99533745/d70232e5-0159-4842-8d65-d8b4df06b1e1)
 
 The graph illustrates a correlation between the reasons for resigning and the performance of data analysts, with all resigning data analyst employees being recent graduates. Interestingly, despite their outstanding performance, the presence of a toxic culture compels employees to resign, highlighting the need for an in-depth examination of why data analyst employees perceive the work environment as toxic.
 
@@ -52,10 +56,11 @@ The following is an evaluation matrix table on several machine learning models t
 
 We are focusing on Recall, and XGBoost emerges as the best model due to the evaluation matrix in both the training and testing phases not differing significantly and doesn't make Overfitting.
 
-#Summary
+# Summary
 1. Feature Selected : "StatusPernikahan" , "StatusKepegawaian", "Pekerjaan" , "AsalDaerah" , "HiringPlatform" , "AlasanResign"
-2. Model Machine learning selected : XGBoost
-3. Feature Important : AlasanResign
+2. Evaluation Matrix : Recall
+3. Model Machine learning selected : XGBoost
+4. Feature Important : AlasanResign
 
 "Grafik Resign"
 
