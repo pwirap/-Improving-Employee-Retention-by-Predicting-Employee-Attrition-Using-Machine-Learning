@@ -64,9 +64,9 @@ The data illustrates the overall percentage of employees in each existing depart
 
 ## Resign Reason Analysis for Employee Attrition Management Strategy
 
-![download (9)](https://github.com/pwirap/-Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning/assets/99533745/2ae4d06b-2635-4b3c-9671-6e1e648b79ce)
+![download (7)](https://github.com/pwirap/Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning/assets/99533745/7d0452a8-510e-467b-bcc9-70181c23db77)
 
-![download (10)](https://github.com/pwirap/-Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning/assets/99533745/d70232e5-0159-4842-8d65-d8b4df06b1e1)
+![download (8)](https://github.com/pwirap/Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning/assets/99533745/37372c89-dff0-4c38-806d-3b1d816fbc46)
 
 The graph illustrates a correlation between the reasons for resigning and the performance of data analysts, with all resigning data analyst employees being recent graduates. Interestingly, despite their outstanding performance, the presence of a toxic culture compels employees to resign, highlighting the need for an in-depth examination of why data analyst employees perceive the work environment as toxic.
 
